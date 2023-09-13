@@ -1,0 +1,22 @@
+html{
+    background-color:olivedrab;
+    }
+h1{
+    font-weight:solid black;
+    text-align:center;
+    }
+h2{
+    font-weight:bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:center
+    }
+p{
+    text-align:center
+    }
+dl{
+    text-align: left;
+}
+.anchor{
+    text-align:center;
+}
+    
